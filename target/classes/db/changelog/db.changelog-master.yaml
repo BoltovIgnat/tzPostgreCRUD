@@ -1,0 +1,18 @@
+databaseChangeLog:
+  - logicalFilePath: db/changelog/db.changelog-lesson1.yaml
+  - changeSet:
+      id: 2
+      author: boltovignat
+      changes:
+        - insert:
+            tableName: questions
+            columns:
+              - column:
+                    name: id
+                    value: 1
+              - column:
+                  name: title
+                  value: "Bagira"
+              - column:
+                  name: description
+                  value: "Dealer"
