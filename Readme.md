@@ -8,7 +8,7 @@ TZ  Ignat Boltov Posgres Crud
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo.git
+git clone https://github.com/BoltovIgnat/tzPostgreCRUD.git
 ```
 
 **2. Configure PostgreSQL**
